@@ -15,7 +15,7 @@ Mình là sinh viên của **IUH** 2024-2028 và học chuyên ngành **Kỹ thu
 
 ### 📈 Thống kê Hoạt động trên GitHub
 
-[![Thống kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue)](https://github.com/khang2112)
+[![Thống kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=khang2112&show_icons=true&theme=vue)](https://github.com/khang2112)
 ### 🛠️ Ngôn ngữ sử dụng nhiều nhất
 
-[![Ngôn ngữ được sử dụng nhiều nhất](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue)](https://github.com/khang2112)
+[![Ngôn ngữ được sử dụng nhiều nhất](https://github-readme-stats.vercel.app/api/top-langs/?username=khang2112&layout=compact&theme=vue)](https://github.com/khang2112)
