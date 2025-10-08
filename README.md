@@ -2,9 +2,6 @@
 ## Mình là Khang hay còn gọi là Kzoro 
 Mình là sinh viên của **IUH** 2024-2028 và học chuyên ngành **Kỹ thuật phần mềm**
 ## Mình thích học, xem phim và ngủ =))
-## 🛠️ Công nghệ tôi đang sử dụng (Skills)
-
-- Lang 
 ## Mình là Khang hay còn gọi là Kzoro 
 Mình là sinh viên của **IUH** 2024-2028 và học chuyên ngành **Kỹ thuật phần mềm**
 ## Mình thích học, xem phim và ngủ =))
