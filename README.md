@@ -13,25 +13,9 @@ Mình là sinh viên của **IUH** 2024-2028 và học chuyên ngành **Kỹ thu
 - Email [khangnguyen1232006@gmail.com](mailto:khangnguyen1232006@gmail.com)
 - Facebook [Nguyễn Dương Khang](https://www.facebook.com/kzoro.206/)
 
-## 🛠️ Công nghệ tôi đang sử dụng (Skills)
+### 📈 Thống kê Hoạt động trên GitHub
 
-### 💻 Ngôn ngữ Lập trình:
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+[![Thống kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue)](https://github.com/khang2112)
+### 🛠️ Ngôn ngữ sử dụng nhiều nhất
 
-### 💡 Frameworks:
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge">
-<!--
-**khang2112/khang2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ngôn ngữ được sử dụng nhiều nhất](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue)](https://github.com/khang2112)
