@@ -3,7 +3,7 @@
 Mình là sinh viên của **IUH** 2024-2028 và học chuyên ngành **Kỹ thuật phần mềm**
 ## Mình thích học, xem phim và ngủ =))
 ## Mình là Khang hay còn gọi là Kzoro 
-Mình là sinh viên của **IUH** 2024-2028 và học chuyên ngành **Kỹ thuật phần mềm**
+Mình là sinh viên của **IUH** 2024-2029 và học chuyên ngành **Kỹ thuật phần mềm**
 ## Mình thích học, xem phim và ngủ =))
 - **Language**: English và Tiếng Việt, đang học Tiếng Nhật ạ
 ## Liên kết:
