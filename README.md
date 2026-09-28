@@ -10,7 +10,7 @@ Software Engineering student at **Industrial University of Ho Chi Minh City (IUH
 * 🌐 **Languages:** 
   * Vietnamese (Native)
   * English (Working Proficiency)
-  * Japanese (Targeting JLPT N4 🇯🇵)
+  * Japanese (Targeting JLPT N3 🇯🇵)
 * ⚡ **Hobbies:** Coding, Tech Documentaries, Movies & Resting
 
 ---
