@@ -1,7 +1,9 @@
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/khang2112/khang2112/main/images/3010.gif" alt="Coding Animation" width="100%"/>
 </p>
+
 ---
 
 # 👨‍💻 Hi there, I'm Nguyen Duong Khang (Kzoro) 👋
