@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khang2112/khang2112/main/images/3010.gif" alt="Coding Animation" width="100%"/>
+</p>
+---
+
 # 👨‍💻 Hi there, I'm Nguyen Duong Khang (Kzoro) 👋
 
 Software Engineering student at **Industrial University of Ho Chi Minh City (IUH)** (2024 – 2029), passionate about building software solutions, exploring new tech stacks, and continuous learning.
@@ -45,6 +51,3 @@ Software Engineering student at **Industrial University of Ho Chi Minh City (IUH
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khang2112/khang2112/main/images/3010.gif" alt="Coding Animation" width="100%"/>
-</p>
