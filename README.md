@@ -46,5 +46,5 @@ Software Engineering student at **Industrial University of Ho Chi Minh City (IUH
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khang2112/khang2112/main/images/9910.gif" alt="Coding Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/khang2112/khang2112/main/images/3010.gif" alt="Coding Animation" width="100%"/>
 </p>
